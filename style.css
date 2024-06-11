@@ -2,7 +2,7 @@ body{
 
     background-color: rgb(204, 87, 228);
 
-}
+} 
 
 .cabecalho{
     display: flex;
@@ -27,5 +27,7 @@ padding: 20px;
 
 .sobre{
 display: flex;
+justify-content: center;
+
 
 }
